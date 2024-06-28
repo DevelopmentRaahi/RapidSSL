@@ -63,7 +63,7 @@ $one_two_three_color :rgb(255 89 18);
 
 .background_random {
     //  background-color: rgba(147, 168, 157, 0.597) !important;
-   background: linear-gradient(to right, rgb(17, 44, 72), rgb(13, 23, 32)), url(../img/window-vps-hosting/bg.jpg);
+   background: linear-gradient(to right, rgb(17, 44, 72, 1), rgba(17, 44, 72,0.8)), url(../img/window-vps-hosting/bg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
